@@ -43,7 +43,11 @@ nav ul li a:hover {
 
 footer {
     background-color: #522F17;
+<<<<<<< HEAD
     color: white;
+=======
+    color: brown;
+>>>>>>> f86357fb5a3ba00df97926453c651133820c9c25
     text-align: center;
     padding: 10px;
     position: fixed;
