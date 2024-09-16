@@ -3,6 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    min-height: 100vh; /* vh stands for viewport height */
 }
 
 header {
@@ -16,8 +17,8 @@ nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    background-color: #522F17;
+    overflow: auto;
+    background-color: #BE966B;
 }
 
 nav ul li {
@@ -42,12 +43,11 @@ nav ul li a:hover {
 }
 
 footer {
-    background-color: #522F17;
+    background-color: #BE966B;
 <<<<<<< HEAD
     color: white;
 =======
-    color: brown;
->>>>>>> f86357fb5a3ba00df97926453c651133820c9c25
+    color: beige;
     text-align: center;
     padding: 10px;
     position: fixed;
