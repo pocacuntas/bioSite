@@ -10,7 +10,7 @@ body {
 
 header {
     background-color: #5A812F;
-    color: green;
+    color: #654321;
     padding: 10px;
     text-align: center;
 }
@@ -42,6 +42,11 @@ nav ul li a:hover {
 #content {
     margin: 20px;
     padding: 20px;
+}
+
+#content img {
+    width: 300px;
+    height: auto; /* Keeps the aspect ratio */
 }
 
 footer {
